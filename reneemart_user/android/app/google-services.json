@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "997646453775",
+    "project_id": "reneemart-e8afd",
+    "storage_bucket": "reneemart-e8afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997646453775:android:2219c1cb9f27dcbdeea77a",
+        "android_client_info": {
+          "package_name": "com.reneemart.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997646453775-hfaglmq6rdclgo5v7i7o2id9g96voe8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reneemart.driver",
+            "certificate_hash": "7bc60690c3b7437d2c13da6abc0539fe851224c7"
+          }
+        },
+        {
+          "client_id": "997646453775-hi2vfsdomrs59n0mmg51enel03sk16ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Pab9BNIdi_HIF54-uEyOdEwUHMGa3eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997646453775-hi2vfsdomrs59n0mmg51enel03sk16ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997646453775:android:1d1fe1eb797cf444eea77a",
+        "android_client_info": {
+          "package_name": "com.reneemart.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997646453775-m4vgktv74e6mv48furlc6bgglr7k8gep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reneemart.seller",
+            "certificate_hash": "7bc60690c3b7437d2c13da6abc0539fe851224c7"
+          }
+        },
+        {
+          "client_id": "997646453775-hi2vfsdomrs59n0mmg51enel03sk16ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Pab9BNIdi_HIF54-uEyOdEwUHMGa3eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997646453775-hi2vfsdomrs59n0mmg51enel03sk16ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997646453775:android:c00f982f7963272beea77a",
+        "android_client_info": {
+          "package_name": "com.reneemart.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997646453775-gva8bv8iqqelcneft4r5ck4d3l0phtfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reneemart.user",
+            "certificate_hash": "7bc60690c3b7437d2c13da6abc0539fe851224c7"
+          }
+        },
+        {
+          "client_id": "997646453775-hi2vfsdomrs59n0mmg51enel03sk16ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Pab9BNIdi_HIF54-uEyOdEwUHMGa3eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997646453775-hi2vfsdomrs59n0mmg51enel03sk16ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
